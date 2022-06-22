@@ -1,4 +1,6 @@
 # ParallelGeneticAlgorithm
+Fall 2022
+
 Utilize thread pools and a genetic algorithm to solve how to place people (points) in a room (grid) such that there are no people within 6 feet (units) of each other.
 
 Start and End:
